@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "An SAP Fiori application.",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Issue Slip Store Report"
+  },
+  "ui5AppDetails": {
+    "appId": "znewissuestore"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_18337BBA9DFDABEBB84118AB21FC3AFDC8530E7F_TM",
+    "semanticObject": "ZNEW_ISSUE_STOR_3",
+    "action": "DISPLAY",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_18337BBA9DFDABEBB84118AB21FC3AFDC8530E7F_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Issue Slip Store Report",
+        "subtitle": "MM"
+      }
+    }
+  ]
+}

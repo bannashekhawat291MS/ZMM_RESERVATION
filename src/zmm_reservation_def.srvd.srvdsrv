@@ -1,0 +1,4 @@
+@EndUserText.label: 'SERVICE DEFINITION'
+define service ZMM_RESERVATION_DEF {
+  expose ZMM_RESERVATION_FINAL;
+}
